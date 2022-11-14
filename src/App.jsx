@@ -5,6 +5,7 @@ class App extends Component {
         return (
             <div>
                 <h3>app组件</h3>
+                <p>addtodo功能</p>
             </div>
         );
     }
